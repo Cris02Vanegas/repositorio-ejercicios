@@ -4,9 +4,9 @@ En este proyecto se visualizara los *ejercicios*, *ejemplos* y *desafios* para *
 
 En este curso se aprendera los siguientes temas:
 
-1.HTML
-2.CSS
-3.JavaScript
+1.HTML  
+2.CSS  
+3.JavaScript  
 
 Practicante: Cristhian Vanegas 2024
 
